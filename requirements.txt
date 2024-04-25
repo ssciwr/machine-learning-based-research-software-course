@@ -2,4 +2,6 @@ jupyter
 pandas
 matplotlib
 numpy
-datasets
+plotly
+seaborn
+scikit-learn
