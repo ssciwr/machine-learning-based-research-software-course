@@ -14,7 +14,7 @@ After the course participants will be able to
 A GitHub user account, basic Python knowledge and knowledge about data processing, ML models and training of models is required.
 
 # Course content
-The assignment repository containing a starter set-up is [here](https://classroom.github.com/a/EUizrQ2H).
+The assignment repository containing a starter set-up is [here](https://classroom.github.com/a/EUizrQ2H). The slides are [here](machine-learning based research software 2024.pdf).
 
 ## 1. MLBRS: Data
 - How to prepare your data
