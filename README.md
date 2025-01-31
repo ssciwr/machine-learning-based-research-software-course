@@ -18,30 +18,46 @@ After the course participants will be able to
 Basic Python knowledge and knowledge about data processing, ML models and training of models is required.
 
 # Course content
+The slides for the complete course can be found [here]().
 
-## 1. MLBRS: Data
-[Slides]
+## 1. Requirements of "ML-based science"
+- What this course is not
+- What this course is about
+- The intersection of data, software and engineering: Key aspects
+[Slides for this section]()
+
+## 2. Research Data Management
+- Data management and the Research Data Unit
+- Data availability and sharing: Open Research Data
+- Data findability and publication
+- Data licensing
+[Slides for this section]()
+
+## 3. Research Data Quality
 - How to prepare your data
 - Understand your data
 - Data transformations: When and how
-- How to share your datasets
+[Slides for this section]()
 
-## 2. MLBRS: Models
-[Slides]
+## 4. Modeling of Research Data
 - Choosing a model
 - Evaluating a model
 - Underfitting and overfitting
 - Making predictions
-- Model cards and publishing your model
-- How to test MLBRS
+- Tooling
+- Model cards, sharing and publishing your model
+- How to unit-test machine-learning based research software
+[Slides for this section]()
 
 ## 3. Publishing your scientific work
+Kapitel 3 (ich, SSC) waere dann Software Engineering (Versionskontrolle, Teste, CI, Containerisierung, Packages und Module, Lizenzen von Software).
 [Slides]
 - Publishing checklists
 - REFORMS
 - MLBRS security and best practices
 
 ## 4. Prominent failures
+Kapitel 4 (ich, SSC) waeren Checklisten (REFORMS), Ethik, Privacy, Bias, und Fehlschlaege von Modellen in Bezug auf Ethik und Bias.
 [Slides]
 - AI in general
 - AI in research software
