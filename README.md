@@ -1,41 +1,73 @@
-# Compact course: AI in research software - best practices for developing and using ML models
+# Compact course: AI in research software
 
-The AI revolution is moving even more rapidly than the digital revolution and leads to the emergence of completely new tools and technologies that affect the scientific process. In this course, we will learn about data-based research software, tools and communities that are relevant in creating and sharing such software, and about best practices in training machine-learning models. Research software that is based on ML models requires an additional layer of best practices in the implementation, including testing of non-deterministic processes. Security aspects as well as bad examples are discussed to highlight the importance of adhering to a best practices code of conduct.
+Is your research based on data? Do you use and/or train machine-learning models in your research? Then this course may be of interest to you!
+
+This is a joint compact course held by Dr. Georg Schwesinger/Dr. Sebastian Zangerle (Research Data Unit), Peter Lippmann (Scientific AI group) and Dr. Inga Ulusoy (Scientific Software Center).
+
+Context: The AI revolution is moving even more rapidly than the digital revolution and leads to the emergence of completely new tools and technologies that affect the scientific process. In this course, we will learn about data-based research software, tools and communities that are relevant in creating and sharing such software, and about best practices in data preparation, data sharing, training, sharing and using machine-learning models. Further, legal and ethical considerations will be discussed, as well as software security and possible pitfalls.
 
 # Learning objectives
 After the course participants will be able to
 - Understand and follow best practices about preparing a dataset for training and testing
 - Understand and follow best practices in training ML models
 - Including appropriate tests in machine-learning based research software (MLBRS)
-- Avoid negative impact from legal and security issues
-- Know how to use appropriate checklist when publishing results that are based on ML approaches
+- Apply software engineering best practices to your machine-learning based research software (MLBRS)
+- Avoid negative impact from legal, ethical and security issues
+- Making your results more generally applicable through using appropriate checklist for ML approaches
 
 # Prerequisites
-A GitHub user account, basic Python knowledge and knowledge about data processing, ML models and training of models is required.
+Basic Python knowledge and knowledge about data processing, ML models and training of models is required.
 
 # Course content
-The assignment repository containing a starter set-up is [here](https://classroom.github.com/a/EUizrQ2H). The slides are [here](machine-learning based research software 2024.pdf).
+The slides for the complete course can be found [here]().
 
-## 1. MLBRS: Data
+## 1. Requirements of "ML-based science"
+- What this course is not
+- What this course is about
+- The intersection of data, software and engineering: Key aspects
+[Slides for this section]()
+
+## 2. Research Data Management
+- Data management and the Research Data Unit
+- Data availability and sharing: Open Research Data
+- Data findability and publication
+- Data licensing
+[Slides for this section]()
+
+## 3. Research Data Quality
 - How to prepare your data
 - Understand your data
 - Data transformations: When and how
-- How to share your datasets
+[Slides for this section]()
 
-## 2. MLBRS: Models
+## 4. Modeling of Research Data
 - Choosing a model
-- Evaluating a model
-- Underfitting and overfitting
+- Evaluating a model: Underfitting and overfitting
+- Tooling
 - Making predictions
-- Model cards and publishing your model
-- How to test MLBRS
+- Model cards, sharing and publishing your model
+- How to (unit-)test machine-learning based research software
+- Model and software deployment
+[Slides for this section]()
 
-## 3. Publishing your scientific work
+## 5. Machine-learning based research software: Software engineering best practices
+- Version control
+- Development workflows
+- Requirements and project management
+- Quality control
+- Packaging
+- Containerisation
+- Software Licensing
+[Slides for this section]()
+
+
+## 6. Making your work public: Considerations of more general use and prominent failures
 - Publishing checklists
 - REFORMS
 - MLBRS security and best practices
-
-## 4. Prominent failures
-- AI in general
-- AI in research software
+- Ethical considerations
+- Legal considerations
+- Prominent failures: AI in general
+- Prominent failures: AI in research software
 - Common pitfalls and mistakes
+[Slides for this section]()
