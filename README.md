@@ -11,8 +11,9 @@ After the course participants will be able to
 - Understand and follow best practices about preparing a dataset for training and testing
 - Understand and follow best practices in training ML models
 - Including appropriate tests in machine-learning based research software (MLBRS)
-- Avoid negative impact from legal and security issues
-- Know how to use appropriate checklist when publishing results that are based on ML approaches
+- Apply software engineering best practices to your machine-learning based research software (MLBRS)
+- Avoid negative impact from legal, ethical and security issues
+- Making your results more generally applicable through using appropriate checklist for ML approaches
 
 # Prerequisites
 Basic Python knowledge and knowledge about data processing, ML models and training of models is required.
@@ -41,24 +42,32 @@ The slides for the complete course can be found [here]().
 
 ## 4. Modeling of Research Data
 - Choosing a model
-- Evaluating a model
-- Underfitting and overfitting
-- Making predictions
+- Evaluating a model: Underfitting and overfitting
 - Tooling
+- Making predictions
 - Model cards, sharing and publishing your model
-- How to unit-test machine-learning based research software
+- How to (unit-)test machine-learning based research software
+- Model and software deployment
 [Slides for this section]()
 
-## 3. Publishing your scientific work
-Kapitel 3 (ich, SSC) waere dann Software Engineering (Versionskontrolle, Teste, CI, Containerisierung, Packages und Module, Lizenzen von Software).
-[Slides]
+## 5. Machine-learning based research software: Software engineering best practices
+- Version control
+- Development workflows
+- Requirements and project management
+- Quality control
+- Packaging
+- Containerisation
+- Software Licensing
+[Slides for this section]()
+
+
+## 6. Making your work public: Considerations of more general use and prominent failures
 - Publishing checklists
 - REFORMS
 - MLBRS security and best practices
-
-## 4. Prominent failures
-Kapitel 4 (ich, SSC) waeren Checklisten (REFORMS), Ethik, Privacy, Bias, und Fehlschlaege von Modellen in Bezug auf Ethik und Bias.
-[Slides]
-- AI in general
-- AI in research software
+- Ethical considerations
+- Legal considerations
+- Prominent failures: AI in general
+- Prominent failures: AI in research software
 - Common pitfalls and mistakes
+[Slides for this section]()
