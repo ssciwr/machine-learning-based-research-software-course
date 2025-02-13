@@ -19,12 +19,13 @@ After the course participants will be able to
 Basic Python knowledge and knowledge about data processing, ML models and training of models is required.
 
 # Course content
-The slides for the complete course can be found [here](machine-learning-based-research-software-02-2025).
+The slides for the complete course can be found [here](machine-learning-based-research-software-02-2025.pdf).
 
 ## 1. Requirements of "ML-based science"
 - What this course is not
 - What this course is about
 - The intersection of data, software and engineering: Key aspects
+
 [Slides for this section](part1/part1.pdf)
 
 ## 2. Research Data Management
@@ -32,12 +33,14 @@ The slides for the complete course can be found [here](machine-learning-based-re
 - Data availability and sharing: Open Research Data
 - Data findability and publication
 - Data licensing
+
 [Slides for this section](part2/part2.pdf)
 
 ## 3. Research Data Quality
 - How to prepare your data
 - Understand your data
 - Data transformations: When and how
+
 [Slides for this section](part3/part3.pdf)
 
 ## 4. Modeling of Research Data
@@ -48,6 +51,7 @@ The slides for the complete course can be found [here](machine-learning-based-re
 - Model cards, sharing and publishing your model
 - How to (unit-)test machine-learning based research software
 - Model and software deployment
+
 [Slides for this section](part4/part4.pdf)
 
 ## 5. Machine-learning based research software: Software engineering best practices
@@ -58,6 +62,7 @@ The slides for the complete course can be found [here](machine-learning-based-re
 - Packaging
 - Containerisation
 - Software Licensing
+
 [Slides for this section](part5/part5.pdf)
 
 
@@ -70,4 +75,5 @@ The slides for the complete course can be found [here](machine-learning-based-re
 - Prominent failures: AI in general
 - Prominent failures: AI in research software
 - Common pitfalls and mistakes
+
 [Slides for this section](part6/part6.pdf)
