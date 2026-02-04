@@ -78,8 +78,7 @@ The slides for the complete course can be found [here](machine-learning-based-re
 ## 6. Publishing, interoperability and responsible AI
 - Publishing a project
 - Publishing checklists
-- REFORMS
-- MLBRS security and best practices
+- MLBRS security and security best practices
 - Ethical considerations
 - Legal considerations
 - Prominent failures: AI in general
