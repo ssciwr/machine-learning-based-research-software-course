@@ -75,7 +75,7 @@ The slides for the complete course can be found [here](machine-learning-based-re
 
 [Slides for this section](part5/part5.pdf)
 
-## 6. Making your work public: Considerations of more general use and prominent failures
+## 6. Publishing, interoperability and responsible AI
 - Publishing a project
 - Publishing checklists
 - REFORMS
