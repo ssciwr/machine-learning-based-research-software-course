@@ -59,7 +59,7 @@ The slides for the complete course can be found [here](machine-learning-based-re
 - Data-version control
 - Data-version control: Practical example
 
-[Slides for this section](part4/part4.pdf)
+[Slides for this section](part5/part5.pdf)
 
 ## 6. Software engineering best practices
 - Version control
@@ -73,9 +73,9 @@ The slides for the complete course can be found [here](machine-learning-based-re
 - Software Licensing
 - Tooling and generative AI
 
-[Slides for this section](part5/part5.pdf)
+[Slides for this section](part6/part6.pdf)
 
-## 6. Publishing, interoperability and responsible AI
+## 7. Publishing, interoperability and responsible AI
 - Publishing a project
 - Publishing checklists
 - MLBRS security and security best practices
@@ -85,4 +85,4 @@ The slides for the complete course can be found [here](machine-learning-based-re
 - Prominent failures: AI in research software
 - Common pitfalls and mistakes
 
-[Slides for this section](part6/part6.pdf)
+[Slides for this section](part7/part7.pdf)
