@@ -2,7 +2,7 @@
 
 Is your research based on data? Do you use and/or train machine-learning models in your research? Then this course may be of interest to you!
 
-This is a joint compact course held by Dr. Georg Schwesinger/Dr. Sebastian Zangerle (Research Data Unit), Peter Lippmann (Scientific AI group) and Dr. Inga Ulusoy (Scientific Software Center).
+This is a joint compact course held by Dr. Sebastian Zangerle (Research Data Unit), Peter Lippmann (Scientific AI group), Dr. Harald Mack and Dr. Inga Ulusoy (Scientific Software Center).
 
 Context: The AI revolution is moving even more rapidly than the digital revolution and leads to the emergence of completely new tools and technologies that affect the scientific process. In this course, we will learn about data-based research software, tools and communities that are relevant in creating and sharing such software, and about best practices in data preparation, data sharing, training, sharing and using machine-learning models. Further, legal and ethical considerations will be discussed, as well as software security and possible pitfalls.
 
@@ -19,7 +19,7 @@ After the course participants will be able to
 Basic Python knowledge and knowledge about data processing, ML models and training of models is required.
 
 # Course content
-The slides for the complete course can be found [here](machine-learning-based-research-software-02-2025.pdf).
+The slides for the complete course can be found [here](machine-learning-based-research-software-02-2026.pdf).
 
 ## 1. Requirements of "ML-based science"
 - What this course is not
@@ -44,36 +44,45 @@ The slides for the complete course can be found [here](machine-learning-based-re
 [Slides for this section](part3/part3.pdf)
 
 ## 4. Modeling of Research Data
-- Choosing a model
-- Evaluating a model: Underfitting and overfitting
-- Tooling
-- Making predictions
-- Model cards, sharing and publishing your model
-- How to (unit-)test machine-learning based research software
-- Model and software deployment
+- Deep learning overview
+    - The neural network
+    - The loss function
+    - The data
+    - The optimizer
+- Tricks against overfitting
+- Training the model, model evaluation and logging
+- Pytorch, Hydra and using LLMs
 
-[Slides for this section](part4/part4.pdf)
-
-## 5. Machine-learning based research software: Software engineering best practices
-- Version control
-- Development workflows
-- Requirements and project management
-- Quality control
-- Packaging
-- Containerisation
-- Software Licensing
+## 5. Reproducibility in machine-learning based research software
+- Design guidelines
+- Design guidelines: Practical example
+- Data-version control
+- Data-version control: Practical example
 
 [Slides for this section](part5/part5.pdf)
 
+## 6. Software engineering best practices
+- Version control
+- Development workflows
+- Requirements and project management
+- Architecture and design
+- Quality control
+- Software management plans
+- Documentation
+- Containerisation and deployment
+- Software Licensing
+- Tooling and generative AI
 
-## 6. Making your work public: Considerations of more general use and prominent failures
+[Slides for this section](part6/part6.pdf)
+
+## 7. Publishing, interoperability and responsible AI
+- Publishing a project
 - Publishing checklists
-- REFORMS
-- MLBRS security and best practices
+- MLBRS security and security best practices
 - Ethical considerations
 - Legal considerations
 - Prominent failures: AI in general
 - Prominent failures: AI in research software
 - Common pitfalls and mistakes
 
-[Slides for this section](part6/part6.pdf)
+[Slides for this section](part7/part7.pdf)

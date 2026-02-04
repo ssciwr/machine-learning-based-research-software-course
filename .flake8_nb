@@ -1,3 +1,0 @@
-[flake8_nb]
-extend-ignore = E501
-max-line-length = 90
