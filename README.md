@@ -51,7 +51,8 @@ The slides for the complete course can be found [here](machine-learning-based-re
     - The optimizer
 - Tricks against overfitting
 - Training the model, model evaluation and logging
-- Pytorch, Hydra and using LLMs
+- Pytorch, Hydra and using
+
 [Slides for this section](part4/part4.pdf)
 
 
