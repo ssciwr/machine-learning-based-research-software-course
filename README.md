@@ -6,7 +6,7 @@ This is a joint compact course held by Dr. Sebastian Zangerle (Research Data Uni
 
 Context: The AI revolution is moving even more rapidly than the digital revolution and leads to the emergence of completely new tools and technologies that affect the scientific process. In this course, we will learn about data-based research software, tools and communities that are relevant in creating and sharing such software, and about best practices in data preparation, data sharing, training, sharing and using machine-learning models. Further, legal and ethical considerations will be discussed, as well as software security and possible pitfalls.
 
-# Learning objectives
+## Learning objectives
 After the course participants will be able to
 - Understand and follow best practices about preparing a dataset for training and testing
 - Understand and follow best practices in training ML models
@@ -15,10 +15,10 @@ After the course participants will be able to
 - Avoid negative impact from legal, ethical and security issues
 - Making your results more generally applicable through using appropriate checklist for ML approaches
 
-# Prerequisites
+## Prerequisites
 Basic Python knowledge and knowledge about data processing, ML models and training of models is required.
 
-# Course content
+## Course content
 The slides for the complete course can be found [here](machine-learning-based-research-software-02-2026.pdf).
 
 ## 1. Requirements of "ML-based science"
@@ -52,6 +52,8 @@ The slides for the complete course can be found [here](machine-learning-based-re
 - Tricks against overfitting
 - Training the model, model evaluation and logging
 - Pytorch, Hydra and using LLMs
+[Slides for this section](part4/part4.pdf)
+
 
 ## 5. Reproducibility in machine-learning based research software
 - Design guidelines
